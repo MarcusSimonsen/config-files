@@ -11,4 +11,6 @@ set scrolloff=7
 nnoremap <Space>e :Lex 20<CR>
 nnoremap <Space>w :w<CR>
 nnoremap <Space>q :q<CR>
+nnoremap <Space>Q :q!<CR>
+nnoremap <Space>s :wq<CR>
 inoremap jk <Esc>
