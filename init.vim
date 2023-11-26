@@ -1,8 +1,7 @@
 set number
 set relativenumber
-set tabstop=2
-set shiftwidth=2
-set expandtab
+set tabstop=4
+set shiftwidth=4
 
 set colorcolumn=81
 set textwidth=80
